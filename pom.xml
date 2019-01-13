@@ -13,7 +13,6 @@
 	<artifactId>banco-dg</artifactId>
 	<version>1</version>
 	<name>banco-dg</name>
-	<packaging>war</packaging>
 	<description>Proyecto Banco</description>
 
 	<properties>
