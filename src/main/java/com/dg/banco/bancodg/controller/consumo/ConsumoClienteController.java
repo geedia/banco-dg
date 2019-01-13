@@ -26,7 +26,7 @@ import com.dg.banco.bancodg.service.consumo.ConsumoClienteService;
  * @author Diana Catalina
  *
  */
-@CrossOrigin(origins = { "http://10.10.10.100:80" })
+@CrossOrigin(origins = { "http://192.168.100.10:80" })
 @RestController
 @RequestMapping("/consumo")
 public class ConsumoClienteController {
