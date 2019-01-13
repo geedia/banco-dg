@@ -25,7 +25,7 @@ import com.dg.banco.bancodg.service.tarjeta.TarjetaClienteService;
  * @author Diana Catalina
  *
  */
-@CrossOrigin(origins= {"http://localhost:4200"})
+@CrossOrigin(origins= {"http://10.10.10.100:80"})
 @RestController
 @RequestMapping("/tarjeta")
 public class TarjetaClienteController {

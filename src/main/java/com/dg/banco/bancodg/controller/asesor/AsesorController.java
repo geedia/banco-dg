@@ -26,7 +26,7 @@ import com.dg.banco.bancodg.service.asesor.AsesorService;
  * @author Diana Catalina
  *
  */
-@CrossOrigin(origins = { "http://localhost:4200" })
+@CrossOrigin(origins = { "http://10.10.10.100:80" })
 @RestController
 @RequestMapping("/asesor")
 public class AsesorController {
